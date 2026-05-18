@@ -1,0 +1,338 @@
+{
+  "featured": [
+    {
+      "name": "whatsapp-public-logan",
+      "description": "Open-source WhatsApp bot with AI capabilities - Logan by YUV.AI",
+      "language": "Mixed",
+      "url": "https://github.com/delevski/whatsapp-public-logan",
+      "category": "agents",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "autodesk-agent",
+      "description": "an agent that can provide information in real time in interactive way",
+      "language": "Mixed",
+      "url": "https://github.com/delevski/autodesk-agent",
+      "category": "agents",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "chefli_agents",
+      "description": "agents based langchain",
+      "language": "Python",
+      "url": "https://github.com/delevski/chefli_agents",
+      "category": "agents",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "meAsAgent",
+      "description": "A Tom Riddle dairy design with agent connected in the background with my context and memory",
+      "language": "Mixed",
+      "url": "https://github.com/delevski/meAsAgent",
+      "category": "agents",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "ADK-AGENT-TEST",
+      "description": "Notebook-based learning with a local agent for assistance.",
+      "language": "Python",
+      "url": "https://github.com/delevski/ADK-AGENT-TEST",
+      "category": "agents",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "gemel",
+      "description": "gemel rates each month and overall",
+      "language": "HTML",
+      "url": "https://github.com/delevski/gemel",
+      "category": "products",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "LifeBook",
+      "description": "apps that help you to do a life book animation",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/LifeBook",
+      "category": "products",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "DOTO",
+      "description": "Help to other for free",
+      "language": "JavaScript",
+      "url": "https://github.com/delevski/DOTO",
+      "category": "products",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "fastapi-aws-ingestor",
+      "description": "FastAPI AWS Ingestor A production-ready FastAPI microservice that ingests JSON, validates and transforms it, then stores the data in AWS S3 or DynamoDB (configurable via env vars). Includes unit tests, Docker support, and robust logging & error handling",
+      "language": "Python",
+      "url": "https://github.com/delevski/fastapi-aws-ingestor",
+      "category": "products",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "animated-web",
+      "description": "Motion-first experiments in the browser.",
+      "language": "HTML",
+      "url": "https://github.com/delevski/animated-web",
+      "category": "experiments",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "ConflictFlow",
+      "description": "Israel VS iran",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/ConflictFlow",
+      "category": "experiments",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "protfolio",
+      "description": "A polished portfolio shell with personal branding.",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/protfolio",
+      "category": "experiments",
+      "stars": 1,
+      "forks": 0
+    }
+  ],
+  "all": [
+    {
+      "name": "gemel",
+      "description": "gemel rates each month and overall",
+      "language": "HTML",
+      "url": "https://github.com/delevski/gemel",
+      "category": "products",
+      "featured": true
+    },
+    {
+      "name": "animated-web",
+      "description": "Motion-first experiments in the browser.",
+      "language": "HTML",
+      "url": "https://github.com/delevski/animated-web",
+      "category": "experiments",
+      "featured": true
+    },
+    {
+      "name": "ConflictFlow",
+      "description": "Israel VS iran",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/ConflictFlow",
+      "category": "experiments",
+      "featured": true
+    },
+    {
+      "name": "whatsapp-public-logan",
+      "description": "Open-source WhatsApp bot with AI capabilities - Logan by YUV.AI",
+      "language": "Mixed",
+      "url": "https://github.com/delevski/whatsapp-public-logan",
+      "category": "agents",
+      "featured": true
+    },
+    {
+      "name": "Baileys",
+      "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "language": "Mixed",
+      "url": "https://github.com/delevski/Baileys",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "LifeBook",
+      "description": "apps that help you to do a life book animation",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/LifeBook",
+      "category": "products",
+      "featured": true
+    },
+    {
+      "name": "autodesk-agent",
+      "description": "an agent that can provide information in real time in interactive way",
+      "language": "Mixed",
+      "url": "https://github.com/delevski/autodesk-agent",
+      "category": "agents",
+      "featured": true
+    },
+    {
+      "name": "protfolio",
+      "description": "A polished portfolio shell with personal branding.",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/protfolio",
+      "category": "experiments",
+      "featured": true
+    },
+    {
+      "name": "chefli",
+      "description": "chef app the generate dish from the ingredients you set",
+      "language": "Dart",
+      "url": "https://github.com/delevski/chefli",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "chefli_agents",
+      "description": "agents based langchain",
+      "language": "Python",
+      "url": "https://github.com/delevski/chefli_agents",
+      "category": "agents",
+      "featured": true
+    },
+    {
+      "name": "DOTO",
+      "description": "Help to other for free",
+      "language": "JavaScript",
+      "url": "https://github.com/delevski/DOTO",
+      "category": "products",
+      "featured": true
+    },
+    {
+      "name": "tamakotchi",
+      "description": "A playful virtual pet / interactive toy concept.",
+      "language": "HTML",
+      "url": "https://github.com/delevski/tamakotchi",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "custome-yad2",
+      "description": "A custom Yad2-style browsing or filtering concept.",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/custome-yad2",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "otebook_with_local_agent",
+      "description": "Notebook-based learning with a local agent for assistance.",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/otebook_with_local_agent",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "ADK-AGENT-TEST",
+      "description": "Notebook-based learning with a local agent for assistance.",
+      "language": "Python",
+      "url": "https://github.com/delevski/ADK-AGENT-TEST",
+      "category": "agents",
+      "featured": true
+    },
+    {
+      "name": "meAsAgent",
+      "description": "A Tom Riddle dairy design with agent connected in the background with my context and memory",
+      "language": "Mixed",
+      "url": "https://github.com/delevski/meAsAgent",
+      "category": "agents",
+      "featured": true
+    },
+    {
+      "name": "chrome-extantion-tabber",
+      "description": "chrome extantion to detect how many tabs open on your chrome browser, and hwo much each one of them using CPU resource",
+      "language": "JavaScript",
+      "url": "https://github.com/delevski/chrome-extantion-tabber",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "CRM-PRO-VB",
+      "description": "A lightweight CRM concept for workflow exploration.",
+      "language": "JavaScript",
+      "url": "https://github.com/delevski/CRM-PRO-VB",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "Playground",
+      "description": "A space for testing ideas quickly.",
+      "language": "JavaScript",
+      "url": "https://github.com/delevski/Playground",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "feed-news",
+      "description": "Automated news feed tooling and extraction.",
+      "language": "Python",
+      "url": "https://github.com/delevski/feed-news",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "meme-generator",
+      "description": "A fast image template playground.",
+      "language": "CSS",
+      "url": "https://github.com/delevski/meme-generator",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "Lucky-Wheel",
+      "description": "Lucky Wheel for fun!!!",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/Lucky-Wheel",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "Do-your-image",
+      "description": "Create any image you like to do",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/Do-your-image",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "RAG-test",
+      "description": "Rag storage for special tasks",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/RAG-test",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "OCR-extractor",
+      "description": "ocr extractor from  pdfs, images, word, excel and more",
+      "language": "Python",
+      "url": "https://github.com/delevski/OCR-extractor",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "bananoEditor",
+      "description": "an editor images by google nano banana",
+      "language": "TypeScript",
+      "url": "https://github.com/delevski/bananoEditor",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "Scrape-Websites",
+      "description": "Scrape Any Website",
+      "language": "JavaScript",
+      "url": "https://github.com/delevski/Scrape-Websites",
+      "category": "experiments",
+      "featured": false
+    },
+    {
+      "name": "fastapi-aws-ingestor",
+      "description": "FastAPI AWS Ingestor A production-ready FastAPI microservice that ingests JSON, validates and transforms it, then stores the data in AWS S3 or DynamoDB (configurable via env vars). Includes unit tests, Docker support, and robust logging & error handling",
+      "language": "Python",
+      "url": "https://github.com/delevski/fastapi-aws-ingestor",
+      "category": "products",
+      "featured": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Ori Delevski",
+  "role": "CTO / VP R&D & Technology Leader",
+  "headline": "I build product-minded systems, AI agents, and automation that turn ideas into working software.",
+  "summary": "This showcase highlights my public GitHub work: shipping apps, experiments, and agentic tooling with a focus on speed, leverage, and maintainability.",
+  "githubUrl": "https://github.com/delevski",
+  "publicRepoCount": 28,
+  "featuredCount": 12,
+  "pillars": [
+    "AI agents",
+    "automation",
+    "full-stack apps",
+    "practical experimentation"
+  ],
+  "highlights": [
+    "Shipping-first engineering",
+    "Agent workflows and tooling",
+    "Fast prototypes with real user value"
+  ]
+}
