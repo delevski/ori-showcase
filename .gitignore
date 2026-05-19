@@ -1,4 +1,5 @@
 node_modules
 playwright-report
 playwright-trace
+test-results
 .DS_Store
